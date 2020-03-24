@@ -1,7 +1,7 @@
 # DUT Info 1 > Programmation Bases de Données
 
-### NOM : DOE
-### Prénom : John
+### NOM : JUERY
+### Prénom : Geraldine
 ### Groupe de TP/TD : 
 - [x] 1
 - [ ] 2
